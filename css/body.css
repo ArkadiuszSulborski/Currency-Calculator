@@ -1,7 +1,9 @@
 .body {
     background-color: rgb(54, 193, 228);
-    max-width: 500px;
+    max-width: 400px;
     margin: auto;
     line-height: 1.5;
     background-image: url("../images/background.png");
+    background-size: cover;
+    padding: 20px;
 }
