@@ -5,7 +5,7 @@ This site can count how much you can get in diffrent currency
 ![Demonstartion](https://media.giphy.com/media/d0Rj5TiWCzNYlSX9zQ/giphy.gif)
 
 
-[Currency Calculator](https://arkadiuszsulborski.github.io/Currency-Calculator/)
+Link: [Currency Calculator](https://arkadiuszsulborski.github.io/Currency-Calculator/)
 ##  Technologies and conventions used in the project:
 
  - HTML
